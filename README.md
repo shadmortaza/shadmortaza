@@ -1,7 +1,6 @@
 # Hey, I'm Shad 👋
 
-I'm a final-year Computer Science student who loves building cool stuff with data.  
-Big fan of data engineering, machine learning, and making things that actually work.
+Making data useful, one pipeline at a time. Passionate about ML, automation, and real-world impact.
 
 ---
 
