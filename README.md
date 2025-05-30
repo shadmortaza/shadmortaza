@@ -22,7 +22,7 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 - **💰 Medical Cost Predictor**  
   Regression model using real insurance data  
-  → 
+  → https://github.com/shadmortaza/Insurance-Prediction
 
 - **🏠 House Prices & 🎓 Student Performance**  
   Two ML models in one project — property and education insights  
