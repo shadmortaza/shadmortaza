@@ -1,4 +1,55 @@
-## Hi there 👋
+# Hey, I'm Shad 👋
+
+I'm a final-year Computer Science student who loves building cool stuff with data.  
+Big fan of data engineering, machine learning, and making things that actually work.
+
+---
+
+### 🛠️ What I Work With
+
+- **Languages:** Python, SQL, Java  
+- **ML & DS:** scikit-learn, Prophet, CNNs, Pandas, Seaborn  
+- **Data Engineering:** MySQL, PostgreSQL, ETL pipelines, REST APIs  
+- **Cloud & Tools:** Azure, AWS, GCP, Databricks, Snowflake, dbt 
+- **Visuals:** Power BI, Tableau, Plotly, Matplotlib  
+
+---
+
+### 🔍 Projects You Might Like
+
+- **📡 Real-Time Sensor Dashboard**  
+  Live factory data + ML-powered anomaly detection  
+  → 
+
+- **💰 Medical Cost Predictor**  
+  Regression model using real insurance data  
+  → 
+
+- **🏠 House Prices & 🎓 Student Performance**  
+  Two ML models in one project — property and education insights  
+  → 
+
+- **🧠 Disease Detection with AI**  
+  Tabular data + X-ray images → Multi-modal diagnosis system  
+  → 
+
+---
+
+### 🎯 What I’m Looking For
+
+Just wrapped up a bunch of projects — now looking to bring those skills to a real team.
+
+---
+
+### 📬 Let’s Connect
+
+- **Email:** shad.mortaza@yahoo.de  
+- **LinkedIn:** [linkedin.com/in/shadmortaza](https://linkedin.com/in/shadmortaza)  
+
+---
+
+Thanks for stopping by!
+
 
 <!--
 **shadmortaza/shadmortaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
