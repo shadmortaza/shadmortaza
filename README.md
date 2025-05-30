@@ -16,10 +16,6 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 ### 🔍 Projects You Might Like
 
-- **📡 Real-Time Sensor Dashboard**  
-  Live factory data + ML-powered anomaly detection  
-  → 
-
 - **💰 Medical Cost Predictor**  
   Regression model using real insurance data  
   → https://github.com/shadmortaza/Insurance-Prediction
@@ -31,6 +27,11 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 - **🧠 Disease Detection with AI**  
   Tabular data + X-ray images → Multi-modal diagnosis system  
   → 
+
+- **📡 Real-Time Sensor Dashboard**  
+  Live factory data + ML-powered anomaly detection
+  🛠️ Work in progress
+  → https://github.com/UOBTeam19EnterprisePro2025/Team19
 
 ---
 
