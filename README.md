@@ -22,7 +22,7 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 - **🏠 House Prices & 🎓 Student Performance**  
   Two ML models in one project — property and education insights  
-  → 
+  → 🛠️ Work in progress 
 
 - **🧠 Disease Detection with AI**  
   Tabular data + X-ray images → Multi-modal diagnosis system  
@@ -30,7 +30,7 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 - **📡 Real-Time Sensor Dashboard**  
   Live factory data + ML-powered anomaly detection
-  🛠️ Work in progressm  
+  🛠️ Work in progress  
   → https://github.com/UOBTeam19EnterprisePro2025/Team19
 
 ---
