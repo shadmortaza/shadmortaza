@@ -26,7 +26,7 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 - **🧠 Disease Detection with AI**  
   Tabular data + X-ray images → Multi-modal diagnosis system  
-  → 
+  → https://github.com/shadmortaza/Disease-Detection
 
 - **📡 Real-Time Sensor Dashboard**  
   Live factory data + ML-powered anomaly detection
