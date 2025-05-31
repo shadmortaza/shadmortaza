@@ -30,7 +30,8 @@ Making data useful, one pipeline at a time. Passionate about ML, automation, and
 
 - **📡 Real-Time Sensor Dashboard**  
   Live factory data + ML-powered anomaly detection
-  → https://github.com/UOBTeam19EnterprisePro2025/Team19 🛠️ Work in progress  
+  → 🛠️ Work in progress  
+  https://github.com/UOBTeam19EnterprisePro2025/Team19 
 
 ---
 
